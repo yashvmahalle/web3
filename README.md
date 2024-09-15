@@ -21,7 +21,7 @@ Clone or Download this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/yashvmahalle/web3.git
 or download the ZIP file from GitHub.
 
 Navigate to the directory containing index.html.
